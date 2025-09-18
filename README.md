@@ -16,6 +16,11 @@ Desempenho rápido: operações como commit, branch, merge e checkout são muito
 
 Branches e merges: fácil de criar ramificações do projeto e integrá-las novamente.
 
+Exemplo simples:
+
+Você salva um arquivo → muda algo → o Git registra essa mudança.
+Se algo der errado, é fácil voltar atrás.
+
 GitHub
 
 GitHub é uma plataforma de hospedagem de código-fonte baseada na web, que utiliza o Git como sistema de controle de versão. Ele permite que você armazene seus repositórios Git online e colabore com outras pessoas mais facilmente.
